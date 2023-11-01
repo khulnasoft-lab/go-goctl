@@ -1,4 +1,4 @@
-# Go library for theGoCtl CLI
+# Go library for the GoCtl CLI
 
 `go-goctl` is a collection of Go modules to make authoring [GitHub CLI extensions][extensions] easier.
 
